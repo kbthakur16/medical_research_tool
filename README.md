@@ -2,7 +2,7 @@
 
 MedBot is a user-friendly medical research tool designed for effortless information retrieval. Users can input website URLs and ask questions to receive relevant insights from those websites.
 
-![](medbot.jpg)
+![](medbot.png)
 
 ## Features
 
